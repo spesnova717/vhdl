@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Jun 20 13:24:58 2017
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Web Edition
+Revision Name : adder_4bit_vhdl
+Top-level Entity Name : adder_4_top
+Family : Cyclone III
+Device : EP3C16F484C6
+Timing Models : Final
+Total logic elements : 59 / 15,408 ( < 1 % )
+    Total combinational functions : 55 / 15,408 ( < 1 % )
+    Dedicated logic registers : 28 / 15,408 ( < 1 % )
+Total registers : 28
+Total pins : 37 / 347 ( 11 % )
+Total virtual pins : 0
+Total memory bits : 0 / 516,096 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 112 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
